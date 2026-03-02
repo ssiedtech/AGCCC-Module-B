@@ -1,0 +1,345 @@
+{
+    "postTest": [
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "There are _______ types of Army doctrine which are important to you as an S-1 that are available for you to download at armypubs.army.mil. Refer to Lesson A.1 if you need help answering the question.",
+            "correctAnswer": "4",
+            "selections": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "What are the Army's two capstone doctrine publications? Refer to ADP 3-0 if you need help answering the question.",
+            "correctAnswer": "ADP 1, The Army; and ADP 3-0, Unified Land Operations",
+            "selections": [
+                "ADP 1, The Army; and FM 1-0, Human Resources Support",
+                "ADP 1, The Army; and ADP 3-0, Unified Land Operations",
+                "ADP 3-0, Unified Land Operations; and FM 1-0, Human Resources Support",
+                "FM 1-0, Human Resources Support; and ATP 1-0.2, Theater-Level Human Resources Support"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": " HR Specialists must understand that the Sustainment Warfighting function includes logistics, personnel services, financial management, and _________________. Refer to ADP 4-0 if you need help answering the question.  Refer to ADP 3-0 if you need help answering the question.",
+            "correctAnswer": "Health Service Support",
+            "selections": [
+                "Command operations process",
+                "Reconnaissance and surveillance",
+                "Protecting personnel of U. S. partners",
+                "Health Service Support"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": " There are two core HR competencies HR Specialists must understand. They are ___________________. Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Man the Force and Provide HR Services",
+            "selections": [
+                "Man the Force and Provide HR Services",
+                "Man the Force and Personnel Readiness Management",
+                "Provide HR Services and Coordinate Personnel Support",
+                "Man the Force and Coordinate Personnel Support"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "The core HR competencies include tasks (subordinate key functions) which support Army tactical and operational-level operations. What key function involves analyzing personnel strength data to determine current combat capabilities, projecting future requirements, and assessing conditions of individual readiness? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Personnel Readiness Management",
+            "selections": [
+                "Personnel Support",
+                "Personnel Readiness Management",
+                "Personnel Accountability and Strength Reporting",
+                "HR Planning and Operations"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which HR publication applies when operating as part of the joint force? Refer to JP 1-0 if you need help answering the question.",
+            "correctAnswer": "JP 1-0",
+            "selections": [
+                "JP 1-0",
+                "JP 1-01",
+                "JP 2-0",
+                "JP 3-0"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which Level of War involves high ranking officers actively running campaigns and major operations? Refer to JP 3-0 if you need help answering the question.",
+            "correctAnswer": "Operational",
+            "selections": [
+                "Unified Action",
+                "Strategic",
+                "Operational",
+                "Tactical"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which of the Core Competencies of Army HR Support includes Personnel Accounting/Strength Reporting, Replacement Operations, Casualty Operations, and Personnel Readiness Management? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Man the Force",
+            "selections": [
+                "Man the Force",
+                "Provide HR Services",
+                "Coordinate Personnel Support",
+                "Personnel Information Management"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which section of the Brigade S-1 structure includes an HR Tech- 420A W2? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "HQ Section",
+            "selections": [
+                "HQ Section",
+                "Personnel Readiness Team",
+                "HR Services Team",
+                "Staff Judge Advocate"
+            ]
+        },
+        {
+            "questionType": "Matching",
+            "questionText": "Match the definition to the correct Brigade S-1 Function:  Refer to FM 1-0 if you need help answering the question.",
+            "definitions": [
+                {
+                    "def": "the S-1 is responsible for the professional growth of the force, recording BDE activities, and ensuring the proper training is available and taken as required.",
+                    "key": "Senior HR Professional"
+                },
+                {
+                    "def": "the S-1 is the Commander's trusted agent and confidant. No other staff principal works as closely with the Brigade Commander. You will learn to gauge the Commander's current state of mind and mood. You will become familiar with how information should be presented. With this information, you can assist fellow staff officers and subordinate commanders by communicating the Brigade Commander's expectations.",
+                    "key": "Adjutant"
+                },
+                {
+                    "def": "the S-1 can expect to be called on to assume the task of coordinating special staff functions. A common function in this area may include assisting the S-3 with executing ceremonies.",
+                    "key": "Staff Officer"
+                }
+            ],
+            "selections": [
+                "Senior HR Professional",
+                "Adjutant",
+                "Staff Officer"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "_________ is a knowledge management system that is partnered with a network of professional forums where HR professionals can share thoughts, ideas, experiences, knowledge, and lessons learned, and seek assistance from subject matter experts and peers. Refer to Lesson A.2 if you need help answering the question.",
+            "correctAnswer": "S1NET",
+            "selections": [
+                "IPPS-A",
+                "S1NET",
+                "GKO",
+                "MilSuite"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "As the Brigade S-1, it is your responsibility to empower your subordinates to effectively perform their jobs. One of the key ways you can train your battalion S-1s is to _________________________. Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Provide technical direction by publishing  Standard Operating Procedures (SOPs)",
+            "selections": [
+                "Provide technical direction by publishing  Standard Operating Procedures (SOPs)",
+                "Administer Company - Level Personnel Readiness Reviews",
+                "Publish battalion/personnel accountability/strength reporting data",
+                "Ensure they conduct regular inspections of HR programs"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which of the following is NOT a top priority of HRC?  Refer to Lesson A.3 if you need help answering the question.",
+            "correctAnswer": "Replacements",
+            "selections": [
+                "Career management",
+                "Sustainment",
+                "Distribution",
+                "Transition of personnel in order to optimize Army personnel readiness, enable leader development, and strengthen an agile and versatile Army that can prevent, shape, and win.",
+                "Replacements"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Your subordinate S-1s and HR Specialists must also understand the mission and functions of the Army National Guard G-1 and U. S. Army Reserve G-1. Which core service of the ARNG G-1 enhances personnel readiness by developing, executing, and interpreting personnel regulations, policies, and programs? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "HRH - Personnel Policy",
+            "selections": [
+                "HRH - Personnel Policy",
+                "HRM - Personnel Programs, Resources & Manpower",
+                "HRP - Personnel Division",
+                "HRS - Soldier & Family Support"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "At full deployment, the Integrated Personnel and Pay System - Army (IPPS-A) application will not: Refer to Lesson A.4 if you need help answering the question.",
+            "correctAnswer": "Become a subsystem of eMILPO, RLAS, and SIDPERS.",
+            "selections": [
+                "Provide audit capability for pay and benefits; ensure the best use of Army dollars to employ human capital.",
+                "Better Soldiers' lives by reducing pay and personnel errors and providing full transparency of actions.",
+                "Become a subsystem of eMILPO, RLAS, and SIDPERS.",
+                "Provide complete visibility of the Total Force in one Human Resource System - over 1.1 million Soldiers."
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which system is an all-component reporting tool utilized to report casualties? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "DCIPS",
+            "selections": [
+                "DTAS",
+                "Casualty Estimator",
+                "DCIPS",
+                "IPPS-A"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "CPT Raymond receives a report that a mission critical piece of unit equipment has malfunctioned, and a civilian specialist is required to repair it. Which HR information system will your HR Specialist use to find the current location of the civilian contractors on the deployment? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Deployed Theater Accountability Software (DTAS)",
+            "selections": [
+                "Tactical Personnel System (TPS)",
+                "Integrated Personnel and Pay System - Army (IPPS-A) ",
+                "Deployed Theater Accountability Software (DTAS)",
+                "Reserve Component Automation System (RCAS)"
+            ]
+        },
+        {
+            "questionType": "Matching",
+            "questionText": "Match the following HR System to the correct description: Refer to Lesson A.4 if you need help answering the question.",
+            "definitions": [
+                {
+                    "def": "Provides processing mobilization packets to include contingency operations for active-duty operational support.",
+                    "key": "DAMPS-A"
+                },
+                {
+                    "def": "A satellite communications system that provides secure worldwide data and voice communications to all Army components.",
+                    "key": "VSAT"
+                },
+                {
+                    "def": "Provides the Army a secure centralized mobilization readiness processing capability.",
+                    "key": "DARTS"
+                },
+                {
+                    "def": "The repository of Official Military Personnel File (OMPF) legal artifacts for all Army personnel to include Active Component, Army National Guard and U. S Army Reserves.",
+                    "key": "IPERMS"
+                }
+            ],
+            "selections": [
+                "DAMPS-A",
+                "VSAT",
+                "DARTS",
+                "IPERMS"
+            ]
+        },
+        {
+            "questionType": "Matching",
+            "questionText": "Match the following HR System to the correct description: Refer to Lesson A.4 if you need help answering the question.",
+            "definitions": [
+                {
+                    "def": "Provides an automated means of data collection and document processing to support the functional processes at installations transitioning Soldiers from active-duty status to retirement, discharge, or release from active duty.",
+                    "key": "TRANSPOC"
+                },
+                {
+                    "def": "The DoD personnel security clearance and access database and the U. S. Army system of record for security clearance eligibility and access.",
+                    "key": "JPAS"
+                },
+                {
+                    "def": "Used by commanders to report their unit's ability to perform assigned mission.",
+                    "key": "NetUSR"
+                },
+                {
+                    "def": "A web-based application used to view Service members' medical treatment information recorded in the combat zone.",
+                    "key": "TMDS"
+                }
+            ],
+            "selections": [
+                "TRANSPOC",
+                "JPAS",
+                "NetUSR",
+                "TMDS"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "CPT Thigpen, one of your colleagues, wants to post a political cartoon he recently saw in the newspaper on a discussion forum in the S1Net because he believes it illustrates the point he wants to make in both a humorous and effective way. What will you advise him about posting the cartoon? Refer to the S1Net Rules of Conduct if you need help answering the question.",
+            "correctAnswer": "He cannot post the cartoon because it is political. In addition, prior permission from the copyright owner is required to post copyrighted material.",
+            "selections": [
+                "Go for it because the S1 community will appreciate the humor.",
+                "As long as he gets prior approval from his chain of command, he can post it.",
+                "Since the cartoon is not his original idea, he cannot post it.",
+                "He cannot post the cartoon because it is political. In addition, prior permission from the copyright owner is required to post copyrighted material."
+            ]
+        },
+        {
+            "questionType": "Matching",
+            "questionText": "Match the following HR Planning Faction to the correct definition. Refer to ADP 5-0 if you need help answering the question.",
+            "definitions": [
+                {
+                    "def": "Making plans that support the operational mission and providing commanders with options on how best to use HR assets within their organizations. The HR planner is focused on translating the commander's visualization into a specific COA.",
+                    "key": "Plan"
+                },
+                {
+                    "def": "Preparing and setting the conditions for success requires an understanding of the operating environment. HR providers anticipate requirements and set into motion activities that allow the force to transition to execution.",
+                    "key": "Prepare"
+                },
+                {
+                    "def": "Making execution and adjustment decisions to exploit opportunities or un-forecasted requirements providing commanders with the flexibility required to be proactive.",
+                    "key": "Execute"
+                },
+                {
+                    "def": "Continual assessment allows the HR provider to learn and adapt as new information becomes available that provides a clearer picture of the operating environment.",
+                    "key": "Assess"
+                }
+            ],
+            "selections": [
+                "Plan",
+                "Prepare",
+                "Execute",
+                "Assess"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "How does the MDMP assist the S-1 Section in fulfilling HR planning tasks? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Provides an adaptable process for collecting and processing of key information.",
+            "selections": [
+                "Identifies the five key areas that must be addressed in all operational planning.",
+                "Provides an adaptable process for collecting and processing of key information.",
+                "Guides the order in which tasks are accomplished to ensure optimum resource utilization.",
+                "Contains a list of personnel and equipment questions that are easily tailored to deployed HR forces."
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "The HR Planning analyzes COAs for _____________. Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "All the Above",
+            "selections": [
+                "Soldier and unit readiness",
+                "Feasibility",
+                "Evaluating tangible factors",
+                "Evaluating intangible factors",
+                "All the Above"
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "How does the MDMP assist the S-1 Section in fulfilling HR planning tasks? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Provides an adaptable process for collecting and processing of key information.",
+            "selections": [
+                "Identifies the five key areas that must be addressed in all operational planning.",
+                "Provides an adaptable process for collecting and processing of key information.",
+                "Guides the order in which tasks are accomplished to ensure optimum resource utilization.",
+                "Contains a list of personnel and equipment questions that are easily tailored to deployed HR forces."
+            ]
+        },
+        {
+            "questionType": "Multiple Choice",
+            "questionText": "Which of the following is not considered in a casualty estimate? Refer to FM 1-0 if you need help answering the question.",
+            "correctAnswer": "Requirements for replacements",
+            "selections": [
+                "Estimate of KIA, WIA, Return to duty",
+                "Estimate of MOS losses",
+                "Requirements for replacements",
+                "Equipment requirements for replacements",
+                "Medevac and medical facility requirements"
+            ]
+        }
+    ]
+}

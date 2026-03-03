@@ -1,8 +1,8 @@
 <template>
   <div class="page" id="content">
-    <div class="title">Operational Environment (OE) Variables</div>
+    <div class="title">Terminal Learning Objective</div>
     <div class="body-text">
-      <img class="graphic" src="../../../assets/image11.png">
+
     </div>
   </div>
 </template>

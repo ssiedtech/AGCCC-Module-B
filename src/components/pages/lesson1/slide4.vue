@@ -1,8 +1,8 @@
 <template>
   <div class="page" id="content">
-    <div class="title">Operational Environment (OE) Variables</div>
+    <div class="title">Enlisted Promotion System Objectives</div>
     <div class="body-text">
-      <img class="graphic" src="../../../assets/image11.png">
+      <!-- <img class="graphic" src="../../../assets/image11.png"> -->
     </div>
   </div>
 </template>
